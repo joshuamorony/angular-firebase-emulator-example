@@ -3,7 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  firebase: {
+    projectId: 'demo-project',
+    // your config here (use demo-project id)
+  },
+  useEmulators: true,
+  production: false,
 };
 
 /*

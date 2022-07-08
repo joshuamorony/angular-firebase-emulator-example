@@ -1,3 +1,7 @@
 export const environment = {
-  production: true
+  firebase: {
+    // your config here
+  },
+  useEmulators: false,
+  production: true,
 };
