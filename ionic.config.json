@@ -1,0 +1,7 @@
+{
+  "name": "supercharge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
